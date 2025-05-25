@@ -28,7 +28,7 @@ This repository contains the solution for my personal **Portfolio Website** proj
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * HTML5 – Structure and content
 * CSS3 – Styling, layout, responsiveness
